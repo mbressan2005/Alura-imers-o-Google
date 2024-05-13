@@ -1,2 +1,2 @@
-# Alura-imers-o-Google
+# Alura-imersao-Google
 curso de imersão da Alura
